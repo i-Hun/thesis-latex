@@ -8,7 +8,7 @@
   Institution              = {Division of Biostatistics, Stanford University},
   Type                     = {Technical report},
   Year                     = {2005},
-  Url                      = {http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf},
+  Url                      = {/url{http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf}},
 
   Owner                    = {ihun},
   Timestamp                = {2013.11.01}
@@ -55,7 +55,7 @@
   Booktitle                = {APSA 2010 Annual Meeting Paper},
   Institution              = {Pennsylvania State University, Department of Political Science},
   Year                     = {2010},
-  Url                      = {http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf},
+  Url                      = {\url{http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf}},
 
   Owner                    = {ihun},
   Timestamp                = {2013.11.03}
@@ -80,7 +80,7 @@
   Year                     = {2008},
   Number                   = {1(9)},
   Pages                    = {93-130},
-  Url                      = {http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf},
+  Url                      = {\url{http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf}},
 
   Journaltitle             = {Прикладная эконометрика},
   Owner                    = {ihun},
@@ -90,13 +90,13 @@
 @Book{Aivazyan2001,
   Title                    = {Прикладная статистика. Основы эконометрики.},
   Address                  = {Москва},
-  Author                   = {Айвазян, С. А.and Мхитарян, В. С.},
+  Author                   = {Айвазян, С. А. and Мхитарян, В. С.},
   Year                     = {2001},
   Edition                  = {2-е, исправленное},
   Pages                    = {656},
   Publisher                = {Юнити-Дана},
   Type                     = {Учебник для вузов},
-  Url                      = {http://ecsocman.hse.ru/text/33442857/},
+  Url                      = {\url{http://ecsocman.hse.ru/text/33442857}},
   Volume                   = {1},
 
   Owner                    = {ihun},
@@ -120,7 +120,7 @@
   Title                    = {Knowledge Discovery and Data Mining в системной социологии},
   Author                   = {Давыдов, А. А.},
   Date                     = {7.11.13},
-  Url                      = {http://www.isras.ru/Davydov_Knowledge.html},
+  Url                      = {\url{http://www.isras.ru/Davydov_Knowledge.html}},
   Year                     = {2013},
 
   Owner                    = {ihun},

@@ -11,13 +11,14 @@
 \selectlanguageifdefined{russian}
 Давыдов~А.~А. Knowledge Discovery and Data Mining в
   системной социологии.
-\newblock 2013. URL:  http://www.isras.ru/Davydov_Knowledge.html.
+\newblock 2013. URL:  \url{http://www.isras.ru/Davydov_Knowledge.html}.
 
 \bibitem{Schrodt2010}
 \selectlanguageifdefined{russian}
 Schrodt~Philip~A. Seven Deadly Sins of Contemporary Quantitative Political
   Analysis~// APSA 2010 Annual Meeting Paper.
-\newblock 2010. URL:  http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf.
+\newblock 2010. URL:
+  \url{http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf}.
 
 \bibitem{handbook_stat_dm}
 \selectlanguageifdefined{russian}
@@ -49,7 +50,7 @@ Challenges at the Interface of Data Analysis, Computer Science, and
 \selectlanguageifdefined{russian}
 Efron~Bradley. Modern Science and the Bayesian-Frequentist Controversy.
 \newblock 2005. URL:
-  http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf.
+  \url{http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf}.
 
 \bibitem{Talbott2013}
 \selectlanguageifdefined{russian}
@@ -64,7 +65,7 @@ Talbott~William. Bayesian Epistemology~// The Stanford Encyclopedia of
 \newblock 2-е, исправленное {изд.}
 \newblock Москва: Юнити-Дана, 2001.
 \newblock Т.~1.
-\newblock {с.}~656. URL:  http://ecsocman.hse.ru/text/33442857/.
+\newblock {с.}~656. URL:  \url{http://ecsocman.hse.ru/text/33442857}.
 
 \bibitem{Aivazyan2008}
 \selectlanguageifdefined{russian}
@@ -73,7 +74,8 @@ Talbott~William. Bayesian Epistemology~// The Stanford Encyclopedia of
   эконометрика.
 \newblock 2008.
 \newblock {№}~1(9).
-\newblock {С.}~93--130. URL:  http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf.
+\newblock {С.}~93--130. URL:
+  \url{http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf}.
 
 \bibitem{Jeffreys1983}
 \selectlanguageifdefined{russian}
