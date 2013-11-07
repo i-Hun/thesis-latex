@@ -14,6 +14,17 @@
   Timestamp                = {2013.11.01}
 }
 
+@Book{Gaul2012,
+  Title                    = {Challenges at the Interface of Data Analysis, Computer Science, and Optimization},
+  Author                   = {Gaul, A. and Geyer-Schulz, A. and Schmidt-Thieme, L and Kunze, J},
+  Year                     = {2012},
+  Pages                    = {613},
+  Publisher                = {Springer},
+
+  Owner                    = {ihun},
+  Timestamp                = {2013.11.07}
+}
+
 @Book{Jeffreys1983,
   Title                    = {Theory of Probability},
   Address                  = {Oxford},
@@ -103,6 +114,17 @@
 
   Owner                    = {ihun},
   Timestamp                = {2013.10.21}
+}
+
+@Online{Davydov_Knowledge,
+  Title                    = {Knowledge Discovery and Data Mining в системной социологии},
+  Author                   = {Давыдов, А. А.},
+  Date                     = {7.11.13},
+  Url                      = {http://www.isras.ru/Davydov_Knowledge.html},
+  Year                     = {2013},
+
+  Owner                    = {ihun},
+  Timestamp                = {2013.11.07}
 }
 
 @Book{Zellner1980,

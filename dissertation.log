@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.10.18)  4 NOV 2013 12:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.10.18)  7 NOV 2013 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1018,9 +1018,9 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 2.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 8.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 8.
+(babel)             in language  on input line 10.
  [2
 
 
@@ -1043,34 +1043,128 @@ Package babel Info: Redefining russian shorthand "~
 
 ]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 30.
  [4]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 40.
  [5]) (./references.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 1.
  (./dissertation.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ...k 2013. URL:  http://www.isras.ru/Davydov_
+                                                  Knowledge.html.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.15 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.15 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
 []\T2A/cmr/m/n/12 Schrodt Philip A. Seven Deadly Sins of Contemporary Quantitat
 ive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
+Underfull \hbox (badness 10000) in paragraph at lines 18--21
 \T2A/cmr/m/n/12 Political Analysis // APSA 2010 Annual Meeting Paper.  2010. UR
 L:
  []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 62--68
+[]\T2A/cmr/m/n/12 Айвазян С. А., Мхи-та-рян В. С. При-клад-ная ста-ти-сти-ка. О
+с-но-вы эко-но-мет-ри-ки.
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 62--68
+\T2A/cmr/m/n/12 2-е, ис-прав-лен-ное изд.  Москва: Юнити-Дана, 2001.  Т. 1.  с.
+ 656. URL:
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ...~93--130. URL:  http://pe.cemi.rssi.ru/pe_
+                                                  2008_1_93-130.pdf.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+l.76 ...0. URL:  http://pe.cemi.rssi.ru/pe_2008_1_
+                                                  93-130.pdf.
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.77 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.77 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
 ))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
@@ -1091,17 +1185,17 @@ Package rerunfilecheck Info: File `dissertation.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 13018 strings out of 494518
- 180492 string characters out of 6173751
- 268225 words of memory out of 5000000
- 15953 multiletter control sequences out of 15000+600000
+ 13022 strings out of 494518
+ 180556 string characters out of 6173751
+ 267296 words of memory out of 5000000
+ 15955 multiletter control sequences out of 15000+600000
  21618 words of font info for 59 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 38i,11n,38p,5505b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/ihun
-/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </home/ihun/.texmf-var/fo
-nts/pk/ljfour/lh/lh-t2a/larm0800.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/
-lh/lh-t2a/lati1200.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
+ 38i,11n,38p,3521b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/ihun
+/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/ihun/.texmf-var/fo
+nts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/
+lh/lh-t2a/larm0800.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx
 1728.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </
 home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2488.600pk> </home/ihun/.tex
 mf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/ihun/.texmf-var/fonts/p
@@ -1109,12 +1203,13 @@ k/ljfour/lh/lh-t2a/larm1200.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh
 -t2a/labx1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on dissertation.pdf (7 pages, 185852 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on dissertation.pdf (7 pages, 200718 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

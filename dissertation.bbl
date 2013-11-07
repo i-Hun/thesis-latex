@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -6,6 +6,12 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Davydov_Knowledge}
+\selectlanguageifdefined{russian}
+Давыдов~А.~А. Knowledge Discovery and Data Mining в
+  системной социологии.
+\newblock 2013. URL:  http://www.isras.ru/Davydov_Knowledge.html.
 
 \bibitem{Schrodt2010}
 \selectlanguageifdefined{russian}
@@ -19,6 +25,13 @@ Nisbet~Robert, Elder~John, Miner~Gary. Handbook of statistical analysis and
   data mining applications.
 \newblock Academic Press, 2009.
 \newblock {с.}~864.
+
+\bibitem{Gaul2012}
+\selectlanguageifdefined{russian}
+Challenges at the Interface of Data Analysis, Computer Science, and
+  Optimization~/ A.~Gaul, A.~Geyer-Schulz, L~Schmidt-Thieme {[и~др.]}.
+\newblock Springer, 2012.
+\newblock {с.}~613.
 
 \bibitem{Zellner1980}
 \selectlanguageifdefined{russian}
@@ -38,14 +51,6 @@ Efron~Bradley. Modern Science and the Bayesian-Frequentist Controversy.
 \newblock 2005. URL:
   http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf.
 
-\bibitem{Aivazyan2008}
-\selectlanguageifdefined{russian}
-Айвазян~С.~А. Байесовский подход в
-  эконометрическом анализе~// Прикладная
-  эконометрика.
-\newblock 2008.
-\newblock {№}~1(9).
-
 \bibitem{Talbott2013}
 \selectlanguageifdefined{russian}
 Talbott~William. Bayesian Epistemology~// The Stanford Encyclopedia of
@@ -54,12 +59,21 @@ Talbott~William. Bayesian Epistemology~// The Stanford Encyclopedia of
 
 \bibitem{Aivazyan2001}
 \selectlanguageifdefined{russian}
-Айвазян~С. А.and~Мхитарян~В.~С. Прикладная
+Айвазян~С.~А., Мхитарян~В.~С. Прикладная
   статистика. Основы эконометрики.
 \newblock 2-е, исправленное {изд.}
 \newblock Москва: Юнити-Дана, 2001.
 \newblock Т.~1.
 \newblock {с.}~656. URL:  http://ecsocman.hse.ru/text/33442857/.
+
+\bibitem{Aivazyan2008}
+\selectlanguageifdefined{russian}
+Айвазян~С.~А. Байесовский подход в
+  эконометрическом анализе~// Прикладная
+  эконометрика.
+\newblock 2008.
+\newblock {№}~1(9).
+\newblock {С.}~93--130. URL:  http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf.
 
 \bibitem{Jeffreys1983}
 \selectlanguageifdefined{russian}
