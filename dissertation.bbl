@@ -7,6 +7,19 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{Duk2011}
+\selectlanguageifdefined{russian}
+Дюк~В.~А., Флегонтов~А.~В., Фомина~И.~К.
+  Применение технологий интеллектуального
+  анализа данных в естественнонаучных,
+  технических и гуманитарных областях~//
+  Известия Российского государственного
+  педагогического университета им. А.И.
+  Герцена.
+\newblock 2011.
+\newblock {№}~138.
+\newblock {С.}~77--84.
+
 \bibitem{Davydov_Knowledge}
 \selectlanguageifdefined{russian}
 Давыдов~А.~А. Knowledge Discovery and Data Mining в
@@ -27,12 +40,13 @@ Nisbet~Robert, Elder~John, Miner~Gary. Handbook of statistical analysis and
 \newblock Academic Press, 2009.
 \newblock {с.}~864.
 
-\bibitem{Gaul2012}
+\bibitem{Christensen2010}
 \selectlanguageifdefined{russian}
-Challenges at the Interface of Data Analysis, Computer Science, and
-  Optimization~/ A.~Gaul, A.~Geyer-Schulz, L~Schmidt-Thieme {[и~др.]}.
-\newblock Springer, 2012.
-\newblock {с.}~613.
+Bayesian Ideas and Data Analysis: An Introduction for Scientists and
+  Statisticians~/ R.~Christensen, W.~Johnson, A.~Branscum {[и~др.]}.
+\newblock 1 {изд.}
+\newblock CRC Press, 2010.
+\newblock {с.}~516.
 
 \bibitem{Zellner1980}
 \selectlanguageifdefined{russian}
