@@ -4,36 +4,47 @@
 
 @Book{Christensen2010,
   Title                    = {Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians},
-  Author                   = {Christensen, R. and  Johnson, W. and Branscum, A. and Hanson, T.},
+  Author                   = {Christensen, R. and Johnson, W. and Branscum, A. and Hanson, T.},
+  Publisher                = {CRC Press},
   Year                     = {2010},
   Edition                  = {1},
-  Pages                    = {516},
-  Publisher                = {CRC Press},
-  Series                   = {Chapman \& Hall/CRC Texts in Statistical Science},
 
   Owner                    = {ihun},
+  Pages                    = {516},
   Timestamp                = {2013.11.07}
 }
 
-@Report{Efron2005,
+@Other{Efron2005,
   Title                    = {Modern Science and the Bayesian-Frequentist Controversy},
   Author                   = {Bradley Efron},
   Institution              = {Division of Biostatistics, Stanford University},
-  Type                     = {Technical report},
-  Year                     = {2005},
-  Url                      = {\url{http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf}},
-
   Owner                    = {ihun},
-  Timestamp                = {2013.11.01}
+  Timestamp                = {2013.11.01},
+  Type                     = {Technical report},
+  Url                      = {\url{http://www-stat.stanford.edu/~ckirby/brad/papers/2005NEWModernScience.pdf}},
+  Year                     = {2005}
+}
+
+@Book{Han2006,
+  Title                    = {Data Mining: Concepts and Techniques},
+  Author                   = {Han, Jiawei and Kamber, Micheline},
+  Editor                   = {Gray, Jim},
+  Publisher                = {Elsevier},
+  Year                     = {2006},
+  Edition                  = {2},
+
+  Owner                    = {hun},
+  Timestamp                = {2013.11.22}
 }
 
 @Book{Jeffreys1983,
   Title                    = {Theory of Probability},
-  Address                  = {Oxford},
   Author                   = {Harold Jeffreys},
-  Year                     = {1983},
-  Edition                  = {3},
   Publisher                = {Clarendon Press},
+  Year                     = {1983},
+
+  Address                  = {Oxford},
+  Edition                  = {3},
 
   Owner                    = {ihun},
   Timestamp                = {2013.11.02}
@@ -42,11 +53,11 @@
 @Book{handbook_stat_dm,
   Title                    = {Handbook of statistical analysis and data mining applications},
   Author                   = {Nisbet, Robert and Elder, John and Miner, Gary},
-  Year                     = {2009},
-  Pages                    = {864},
   Publisher                = {Academic Press},
+  Year                     = {2009},
 
   Owner                    = {ihun},
+  Pages                    = {864},
   Quality                  = {1},
   Timestamp                = {2013.10.17}
 }
@@ -55,24 +66,37 @@
   Title                    = {Seven Deadly Sins of Contemporary Quantitative Political Analysis},
   Author                   = {Philip A. Schrodt},
   Booktitle                = {APSA 2010 Annual Meeting Paper},
-  Institution              = {Pennsylvania State University, Department of Political Science},
   Year                     = {2010},
-  Url                      = {\url{http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf}},
+
+  Institution              = {Pennsylvania State University, Department of Political Science},
+  Owner                    = {ihun},
+  Timestamp                = {2013.11.03},
+  Url                      = {\url{http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf}}
+}
+
+@InCollection{Talbott2013,
+  Title                    = {Bayesian Epistemology},
+  Author                   = {Talbott, William},
+  Booktitle                = {The Stanford Encyclopedia of Philosophy},
+  Year                     = {2013},
+  Edition                  = {Весна 2013},
+  Editor                   = {Edward N. Zalta},
 
   Owner                    = {ihun},
   Timestamp                = {2013.11.03}
 }
 
-@Incollection{Talbott2013,
-  Title                    = {Bayesian Epistemology},
-  Author                   = {Talbott, William},
-  Booktitle                = {The Stanford Encyclopedia of Philosophy},
-  Editor                   = {Edward N. Zalta},
-  Year                     = {2013},
-  Edition                  = {Весна 2013},
+@InBook{HandbookCS,
+  Title                    = {Handbook of Computational Statistics: Concepts and Methods},
+  Author                   = {Wilhelm, Adalbert},
+  Chapter                  = {Data and Knowledge Mining},
+  Editor                   = {Gentle, J. E. and Härdle, W. and Mori, Y.},
+  Pages                    = {789-803},
+  Publisher                = {Springer},
+  Year                     = {2004},
 
-  Owner                    = {ihun},
-  Timestamp                = {2013.11.03}
+  Owner                    = {hun},
+  Timestamp                = {2013.11.21}
 }
 
 @Article{Aivazyan2008,
@@ -82,51 +106,52 @@
   Year                     = {2008},
   Number                   = {1(9)},
   Pages                    = {93-130},
-  Url                      = {\url{http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf}},
 
   Journaltitle             = {Прикладная эконометрика},
   Owner                    = {ihun},
-  Timestamp                = {2013.11.03}
+  Timestamp                = {2013.11.03},
+  Url                      = {\url{http://pe.cemi.rssi.ru/pe_2008_1_93-130.pdf}}
 }
 
 @Book{Aivazyan2001,
   Title                    = {Прикладная статистика. Основы эконометрики.},
-  Address                  = {Москва},
   Author                   = {Айвазян, С. А. and Мхитарян, В. С.},
-  Year                     = {2001},
-  Edition                  = {2-е, исправленное},
-  Pages                    = {656},
   Publisher                = {Юнити-Дана},
-  Type                     = {Учебник для вузов},
-  Url                      = {\url{http://ecsocman.hse.ru/text/33442857}},
+  Year                     = {2001},
+
+  Address                  = {Москва},
+  Edition                  = {2-е, исправленное},
   Volume                   = {1},
 
   Owner                    = {ihun},
-  Timestamp                = {2013.11.03}
+  Pages                    = {656},
+  Timestamp                = {2013.11.03},
+  Type                     = {Учебник для вузов},
+  Url                      = {\url{http://ecsocman.hse.ru/text/33442857}}
 }
 
 @Book{Gnedenko2005,
   Title                    = {Курс теории вероятностей},
-  Address                  = {Москва},
   Author                   = {Гнеденко, Б. В.},
-  Year                     = {2005},
-  Edition                  = {8},
-  Pagetotal                = {448},
   Publisher                = {Едиториал УРСС},
+  Year                     = {2005},
+
+  Address                  = {Москва},
+  Edition                  = {8},
 
   Owner                    = {ihun},
+  Pagetotal                = {448},
   Timestamp                = {2013.10.21}
 }
 
-@Online{Davydov_Knowledge,
+@Other{Davydov_Knowledge,
   Title                    = {Knowledge Discovery and Data Mining в системной социологии},
   Author                   = {Давыдов, А. А.},
   Date                     = {7.11.13},
-  Url                      = {\url{http://www.isras.ru/Davydov_Knowledge.html}},
-  Year                     = {2013},
-
   Owner                    = {ihun},
-  Timestamp                = {2013.11.07}
+  Timestamp                = {2013.11.07},
+  Url                      = {\url{http://www.isras.ru/Davydov_Knowledge.html}},
+  Year                     = {2013}
 }
 
 @Article{Duk2011,
@@ -143,10 +168,11 @@
 
 @Book{Zellner1980,
   Title                    = {Байесовские методы в эконометрии},
-  Address                  = {Москва},
   Author                   = {Зельнер, А},
-  Year                     = {1980},
   Publisher                = {<<Статистика>>},
+  Year                     = {1980},
+
+  Address                  = {Москва},
 
   Owner                    = {ihun},
   Timestamp                = {2013.10.20}

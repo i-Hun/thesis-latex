@@ -97,4 +97,18 @@ Jeffreys~Harold. Theory of Probability.
 \newblock 3 {изд.}
 \newblock Oxford: Clarendon Press, 1983.
 
+\bibitem{HandbookCS}
+\selectlanguageifdefined{russian}
+Wilhelm~Adalbert. Handbook of Computational Statistics: Concepts and Methods~/
+  {под ред. }J.~E.~Gentle, W.~Härdle, Y.~Mori.
+\newblock Springer, 2004.
+\newblock {С.}~789--803.
+
+\bibitem{Han2006}
+\selectlanguageifdefined{russian}
+Han~Jiawei, Kamber~Micheline. Data Mining: Concepts and Techniques~/ {под
+  ред. }Jim~Gray.
+\newblock 2 {изд.}
+\newblock Elsevier, 2006.
+
 \end{thebibliography}

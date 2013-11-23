@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.9)  11 NOV 2013 06:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2013.11.13)  23 NOV 2013 14:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1017,28 +1017,28 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 2.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 9.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2042) in paragraph at lines 9--9
+Underfull \hbox (badness 2042) in paragraph at lines 6--6
 [][][]\T2A/cmr/m/n/10 Predicting the Future With Social Media. URL: [][]$\T2A/c
 mtt/m/n/10 http : / / www . hpl . hp . com / research / scl / papers /
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 12.
 [2
 
 
 ]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 15.
  [3]) (./part1.tex
 \IeC {\CYRG }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyra } 1.
 Package babel Info: Redefining russian shorthand "|
@@ -1072,15 +1072,25 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 52.
  [7]
+Underfull \hbox (badness 1824) in paragraph at lines 55--55
+[][][]\T2A/cmr/m/n/10 Роль ста-ти-сти-че-ской зна-чи-мо-сти в неуда-чах на-у-ки
+. URL: [][]$\T2A/cmtt/m/n/10 http : / / inosmi . ru / world / 20131114 /
+ []
+
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 54.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 54.
- [8]) (./references.tex
+(babel)             in language  on input line 67.
+[8]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 89.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 89.
+ [9]) (./references.tex
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining russian shorthand "~
@@ -1091,13 +1101,12 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 21.
- [9
+ [10
 
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
-
-(./dissertation.aux)
+ (./dissertation.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
@@ -1105,33 +1114,31 @@ Package rerunfilecheck Info: File `dissertation.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 13056 strings out of 494518
- 181352 string characters out of 6173752
- 268312 words of memory out of 5000000
- 15973 multiletter control sequences out of 15000+600000
+ 13064 strings out of 494518
+ 181437 string characters out of 6173751
+ 268375 words of memory out of 5000000
+ 15976 multiletter control sequences out of 15000+600000
  22238 words of font info for 61 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  38i,11n,38p,3793b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
- </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt1200.600pk> </home/ihun/.texmf-var/fo
-nts/pk/ljfour/lh/lh-t2a/lati1200.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/
-lh/lh-t2a/labx1728.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt1000.600pk> </
-home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </home/ihun/.tex
-mf-var/fonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </home/ihun/.texmf-var/fonts/p
-k/ljfour/lh/lh-t2a/larm0800.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh
--t2a/larm1095.600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2488.
-600pk> </home/ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </home/
-ihun/.texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600pk> </home/ihun/.texmf-va
-r/fonts/pk/ljfour/lh/lh-t2a/labx1200.600pk></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pf
-b>
-Output written on dissertation.pdf (10 pages, 245473 bytes).
+ </tmp/texfonts/pk/ljfour/lh/lh-t2a/latt1200.600pk> </tmp/texfonts/pk/ljfour/
+lh/lh-t2a/lati1200.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1095.600pk> </
+tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1728.600pk> </tmp/texfonts/pk/ljfour/lh/lh
+-t2a/latt1000.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1000.600pk> </tmp/t
+exfonts/pk/ljfour/lh/lh-t2a/larm0700.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/
+larm0800.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx2488.600pk> </tmp/texfon
+ts/pk/ljfour/lh/lh-t2a/labx1440.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/larm1
+200.600pk> </tmp/texfonts/pk/ljfour/lh/lh-t2a/labx1200.600pk></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb>
+Output written on dissertation.pdf (11 pages, 258884 bytes).
 PDF statistics:
- 757 PDF objects out of 1000 (max. 8388607)
- 195 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 802 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 41 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
