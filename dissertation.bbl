@@ -52,7 +52,7 @@ Bayesian Ideas and Data Analysis: An Introduction for Scientists and
 \selectlanguageifdefined{russian}
 Зельнер~А. Байесовские методы в
   эконометрии.
-\newblock Москва: <<Статистика>>, 1980.
+\newblock Москва: Статистика, 1980.
 
 \bibitem{Gnedenko2005}
 \selectlanguageifdefined{russian}
@@ -110,5 +110,13 @@ Han~Jiawei, Kamber~Micheline. Data Mining: Concepts and Techniques~/ {под
   ред. }Jim~Gray.
 \newblock 2 {изд.}
 \newblock Elsevier, 2006.
+
+\bibitem{MediaCoverage2012}
+\selectlanguageifdefined{russian}
+Media coverage in times of political crisis: a text mining approach~/
+  E.~Junqué~de~Fortuny, T.~De~Smedt, D.~Martens {[и~др.]}~// Expert Systems
+  with Applications.
+\newblock 2012.  Октябрь.
+\newblock Т.~39.
 
 \end{thebibliography}

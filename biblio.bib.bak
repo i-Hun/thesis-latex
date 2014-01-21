@@ -9,6 +9,7 @@
   Year                     = {2010},
   Edition                  = {1},
 
+  File                     = {:/home/hun/Thesis/books/Теория вероятностей/1027401_2F014_christensen_r_et_al_bayesian_ideas_and_data_analysis_an_intr.pdf:PDF},
   Owner                    = {ihun},
   Pages                    = {516},
   Timestamp                = {2013.11.07}
@@ -33,6 +34,7 @@
   Year                     = {2006},
   Edition                  = {2},
 
+  File                     = {:/home/hun/Thesis/books/!  han_j_kamber_m_data_mining_concepts_and_techniques.pdf:PDF},
   Owner                    = {hun},
   Timestamp                = {2013.11.22}
 }
@@ -50,12 +52,27 @@
   Timestamp                = {2013.11.02}
 }
 
+@Article{MediaCoverage2012,
+  Title                    = {Media coverage in times of political crisis: a text mining approach},
+  Author                   = {Junqué de Fortuny, E. and De Smedt, T. and Martens, D. and Daelemans, W.},
+  Journal                  = {Expert Systems with Applications},
+  Year                     = {2012},
+
+  Month                    = {Октябрь},
+  Volume                   = {39},
+
+  File                     = {:/home/hun/Thesis/books/text mining/Media coverage in times of political crisis.pdf:PDF},
+  Owner                    = {hun},
+  Timestamp                = {2013.12.03}
+}
+
 @Book{handbook_stat_dm,
   Title                    = {Handbook of statistical analysis and data mining applications},
   Author                   = {Nisbet, Robert and Elder, John and Miner, Gary},
   Publisher                = {Academic Press},
   Year                     = {2009},
 
+  File                     = {:/home/hun/Thesis/books/! nisbet_r_elder_j_miner_g_handbook_of_statistical_analysis_an.pdf:PDF},
   Owner                    = {ihun},
   Pages                    = {864},
   Quality                  = {1},
@@ -95,6 +112,7 @@
   Publisher                = {Springer},
   Year                     = {2004},
 
+  File                     = {:/home/hun/Thesis/books/! gentle_j_e_et_al_eds_handbook_of_computational_statistics.pdf:PDF},
   Owner                    = {hun},
   Timestamp                = {2013.11.21}
 }
@@ -123,6 +141,7 @@
   Edition                  = {2-е, исправленное},
   Volume                   = {1},
 
+  File                     = {:/home/hun/Thesis/books/Теория вероятностей/Айвазян С., Мхитарян В. Прикладная статистика и основы эконометрики, том 1.djvu:Djvu},
   Owner                    = {ihun},
   Pages                    = {656},
   Timestamp                = {2013.11.03},
@@ -169,11 +188,12 @@
 @Book{Zellner1980,
   Title                    = {Байесовские методы в эконометрии},
   Author                   = {Зельнер, А},
-  Publisher                = {<<Статистика>>},
+  Publisher                = {Статистика},
   Year                     = {1980},
 
   Address                  = {Москва},
 
+  File                     = {:/home/hun/Thesis/books/Теория вероятностей/0507496_8B2B1_zelner_a_baiesovskie_metody_v_ekonometrii.djvu:Djvu},
   Owner                    = {ihun},
   Timestamp                = {2013.10.20}
 }
