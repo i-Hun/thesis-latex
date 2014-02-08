@@ -119,4 +119,20 @@ Media coverage in times of political crisis: a text mining approach~/
 \newblock 2012.  Октябрь.
 \newblock Т.~39.
 
+\bibitem{EgyptianUprising2012}
+\selectlanguageifdefined{russian}
+Causey~Charles. The Battle for Bystanders: Information, Meaning Contests, and
+  Collective Action in the Egyptian Uprising of 2011.
+\newblock 2012. URL:
+  \url{http://www.soc.washington.edu/sites/default/files/SCOPES%20Causey_Oct_12pdf.pdf}.
+
+\bibitem{methodlogy_internet}
+\selectlanguageifdefined{russian}
+Кольцова~О.~Ю., Павлова~Ю. К методологии
+  сбора Интернет-данных для
+  социологического анализа.
+\newblock СПб, 2011. URL:
+  \url{http://www.hse.ru/data/2013/06/10/1283698963/Julija Pavlova, Olesja
+  Kolcova,K metodol.. dlja sociologicheskogo analiza.pdf}.
+
 \end{thebibliography}

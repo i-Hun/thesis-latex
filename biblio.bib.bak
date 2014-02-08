@@ -2,6 +2,17 @@
 % Encoding: UTF-8
 
 
+@Article{EgyptianUprising2012,
+  Title                    = {The Battle for Bystanders: Information, Meaning Contests, and Collective Action in the Egyptian Uprising of 2011},
+  Author                   = {Causey, Charles},
+  Year                     = {2012},
+
+  File                     = {:/home/hun/Thesis/books/text mining/The Battle for Bystanders\: Information, Meaning Contests, and Collective Action in the Egyptian Uprising of 2011.pdf:PDF},
+  Owner                    = {hun},
+  Timestamp                = {2013.12.04},
+  Url                      = {\url{http://www.soc.washington.edu/sites/default/files/SCOPES%20Causey_Oct_12pdf.pdf}}
+}
+
 @Book{Christensen2010,
   Title                    = {Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians},
   Author                   = {Christensen, R. and Johnson, W. and Branscum, A. and Hanson, T.},
@@ -196,5 +207,19 @@
   File                     = {:/home/hun/Thesis/books/Теория вероятностей/0507496_8B2B1_zelner_a_baiesovskie_metody_v_ekonometrii.djvu:Djvu},
   Owner                    = {ihun},
   Timestamp                = {2013.10.20}
+}
+
+@InCollection{jj_mapping2011,
+  Title                    = {Картирование комментовых сообществ в Живом Журнале},
+  Author                   = {Кольцова, Е. Ю. and Рыков, Ю. Г. and Кольцов С. Н.},
+  Booktitle                = {Информационные системы для научных исследований: сборник научных статей. Труды XV Всероссийской объединенной конференции <<Интернет и современное обществ>>},
+  Publisher                = {МультиПроджектСистемСервис},
+  Year                     = {2011},
+
+  Address                  = {СПб},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.02.07},
+  Url                      = {\url{http://www.hse.ru/pubs/lib/data/access/ticket/1391774851d0fd2270984e4354b93fb2e1ac234f48/Кольцова_Рыков.pdf}}
 }
 
