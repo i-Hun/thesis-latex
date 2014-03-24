@@ -1,6 +1,54 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
+
+@Article{mining_consumer_reviews,
+  Title                    = {Deriving the pricing power of product features by mining consumer reviews},
+  Author                   = {Archak, Nikolay and Ghose, Anindya and Ipeirotis, Panagiotis},
+  Journal                  = {Management Science},
+  Year                     = {2011},
+
+  Month                    = {August},
+  Number                   = {8},
+  Pages                    = {1485-1509},
+  Volume                   = {57},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://pages.stern.nyu.edu/~aghose/pricingpower_print.pdf}}
+}
+
+@Article{Google_econometrics,
+  Title                    = {Google econometrics and unemployment forecasting},
+  Author                   = {Askitas, Nikolaos and Zimmermann, Klaus F.},
+  Journal                  = {Applied Economics Quarterly},
+  Year                     = {2009},
+
+  Month                    = {April},
+  Number                   = {2},
+  Pages                    = {107-120},
+  Volume                   = {55},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://ftp.iza.org/dp4201.pdf}}
+}
+
+@Article{Tetlock2007,
+  Title                    = {Giving content to investor sentiment: The role of media in the stock market},
+  Author                   = {C. Tetlock, Paul},
+  Journal                  = {The Journal of Finance},
+  Year                     = {2007},
+
+  Month                    = {June},
+  Number                   = {3},
+  Pages                    = {1139-1168},
+  Volume                   = {62},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://www0.gsb.columbia.edu/faculty/ptetlock/papers/Tetlock_JF_07_Giving_Content_to_Investor_Sentiment.pdf}}
+}
 
 @Article{EgyptianUprising2012,
   Title                    = {The Battle for Bystanders: Information, Meaning Contests, and Collective Action in the Egyptian Uprising of 2011},
@@ -37,6 +85,33 @@
   Year                     = {2005}
 }
 
+@InProceedings{geographic_lexical_variation,
+  Title                    = {A latent variable model for geographic lexical variation},
+  Author                   = {Eisenstein, Jacob and O’Connor, Brendan and Smith, Noah A. and Xing, Eric P.},
+  Booktitle                = {Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing},
+  Year                     = {2010},
+  Pages                    = {1277-1287},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://www.cs.cmu.edu/~nasmith/papers/eisenstein+oconnor+smith+xing.emnlp10.pdf}}
+}
+
+@Article{seasonal_mood,
+  Title                    = {Diurnal and seasonal mood vary with work, sleep, and daylength across diverse cultures},
+  Author                   = {Golder, Scott A. and Macy,  Michael W.},
+  Journal                  = {Science},
+  Year                     = {2011},
+
+  Month                    = {September},
+  Pages                    = {1878-1881},
+  Volume                   = {333},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://www3.ntu.edu.sg/home/linqiu/teaching/psychoinformatics/Diurnal and Seasonal Mood Vary Across Diverse Cultures.pdf}}
+}
+
 @Book{Han2006,
   Title                    = {Data Mining: Concepts and Techniques},
   Author                   = {Han, Jiawei and Kamber, Micheline},
@@ -48,6 +123,19 @@
   File                     = {:/home/hun/Thesis/books/!  han_j_kamber_m_data_mining_concepts_and_techniques.pdf:PDF},
   Owner                    = {hun},
   Timestamp                = {2013.11.22}
+}
+
+@Article{encyclopedie,
+  Title                    = {Mining Eighteenth Century Ontologies: Machine Learning and Knowledge Classification in the Encyclopedie},
+  Author                   = {Horton, Russell and Morrissey, Robert and Olsen, Mark and Roe, Glenn and Voyer, Robert},
+  Journal                  = {Digital Humanities Quarterly},
+  Year                     = {2009},
+  Number                   = {2},
+  Volume                   = {3},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://www.digitalhumanities.org/dhq/vol/3/2/000044/000044.html}}
 }
 
 @Book{Jeffreys1983,
@@ -77,17 +165,39 @@
   Timestamp                = {2013.12.03}
 }
 
+@Book{practical_tm,
+  Title                    = {Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications},
+  Author                   = {Miner, G. and Delen, D. and Elder, J. and Fast, A. and Hill, T. and Nisbet, R.},
+  Publisher                = {Elsevier},
+  Year                     = {2012},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24}
+}
+
 @Book{handbook_stat_dm,
   Title                    = {Handbook of statistical analysis and data mining applications},
   Author                   = {Nisbet, Robert and Elder, John and Miner, Gary},
   Publisher                = {Academic Press},
   Year                     = {2009},
 
-  File                     = {:/home/hun/Thesis/books/! nisbet_r_elder_j_miner_g_handbook_of_statistical_analysis_an.pdf:PDF},
   Owner                    = {ihun},
   Pages                    = {864},
   Quality                  = {1},
   Timestamp                = {2013.10.17}
+}
+
+@InProceedings{tweets_to_polls,
+  Title                    = {From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series},
+  Author                   = {O’Connor, Brendan and Balasubramanyan, Ramnath and Routledge, Bryan R. and Smith, Noah A},
+  Booktitle                = {International AAAI Conference on Weblogs and Social Media},
+  Year                     = {2010.},
+
+  Address                  = {Washington},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://www.cs.cmu.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf}}
 }
 
 @Conference{Schrodt2010,
@@ -112,6 +222,20 @@
 
   Owner                    = {ihun},
   Timestamp                = {2013.11.03}
+}
+
+@Article{psychological_meaning,
+  Title                    = {The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods},
+  Author                   = {Tausczik, Yla R. and Pennebaker, James W.},
+  Journal                  = {Journal of Language and Social Psychology},
+  Year                     = {2010},
+  Number                   = {1},
+  Pages                    = {24-54},
+  Volume                   = {29},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf}}
 }
 
 @InBook{HandbookCS,
@@ -209,9 +333,21 @@
   Timestamp                = {2013.10.20}
 }
 
+@Booklet{methodlogy_internet,
+  Title                    = {К методологии сбора Интернет-данных для социологического анализа},
+
+  Address                  = {СПб},
+  Author                   = {Кольцова, О. Ю. and Павлова, Ю.},
+  Year                     = {2011},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.02.07},
+  Url                      = {\url{http://www.hse.ru/data/2013/06/10/1283698963/Julija Pavlova, Olesja Kolcova,K metodol.. dlja sociologicheskogo analiza.pdf}}
+}
+
 @InCollection{jj_mapping2011,
   Title                    = {Картирование комментовых сообществ в Живом Журнале},
-  Author                   = {Кольцова, Е. Ю. and Рыков, Ю. Г. and Кольцов С. Н.},
+  Author                   = {Кольцова, О Ю. and Рыков, Ю. Г. and Кольцов С. Н.},
   Booktitle                = {Информационные системы для научных исследований: сборник научных статей. Труды XV Всероссийской объединенной конференции <<Интернет и современное обществ>>},
   Publisher                = {МультиПроджектСистемСервис},
   Year                     = {2011},

@@ -111,6 +111,85 @@ Han~Jiawei, Kamber~Micheline. Data Mining: Concepts and Techniques~/ {под
 \newblock 2 {изд.}
 \newblock Elsevier, 2006.
 
+\bibitem{Tetlock2007}
+\selectlanguageifdefined{russian}
+C.~Tetlock~Paul. Giving content to investor sentiment: The role of media in the
+  stock market~// The Journal of Finance.
+\newblock 2007.  June.
+\newblock Т.~62, {№}~3.
+\newblock {С.}~1139--1168. URL:
+  \url{http://www0.gsb.columbia.edu/faculty/ptetlock/papers/Tetlock_JF_07_Giving_Content_to_Investor_Sentiment.pdf}.
+
+\bibitem{mining_consumer_reviews}
+\selectlanguageifdefined{russian}
+Archak~Nikolay, Ghose~Anindya, Ipeirotis~Panagiotis. Deriving the pricing power
+  of product features by mining consumer reviews~// Management Science.
+\newblock 2011.  August.
+\newblock Т.~57, {№}~8.
+\newblock {С.}~1485--1509. URL:
+  \url{http://pages.stern.nyu.edu/~aghose/pricingpower_print.pdf}.
+
+\bibitem{Google_econometrics}
+\selectlanguageifdefined{russian}
+Askitas~Nikolaos, Zimmermann~Klaus~F. Google econometrics and unemployment
+  forecasting~// Applied Economics Quarterly.
+\newblock 2009.  April.
+\newblock Т.~55, {№}~2.
+\newblock {С.}~107--120. URL:  \url{http://ftp.iza.org/dp4201.pdf}.
+
+\bibitem{psychological_meaning}
+\selectlanguageifdefined{russian}
+Tausczik~Yla~R., Pennebaker~James~W. The Psychological Meaning of Words: LIWC
+  and Computerized Text Analysis Methods~// Journal of Language and Social
+  Psychology.
+\newblock 2010.
+\newblock Т.~29, {№}~1.
+\newblock {С.}~24--54. URL:
+  \url{http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/Tausczik&Pennebaker2010.pdf}.
+
+\bibitem{seasonal_mood}
+\selectlanguageifdefined{russian}
+Golder~Scott~A., Macy~Michael~W. Diurnal and seasonal mood vary with work,
+  sleep, and daylength across diverse cultures~// Science.
+\newblock 2011.  September.
+\newblock Т. 333.
+\newblock {С.}~1878--1881. URL:
+  \url{http://www3.ntu.edu.sg/home/linqiu/teaching/psychoinformatics/Diurnal
+  and Seasonal Mood Vary Across Diverse Cultures.pdf}.
+
+\bibitem{federalist}
+\selectlanguageifdefined{russian}
+Mosteller~F., Wallace~D.L., Nerbonne~J. Inference and Disputed Authorship: The
+  Federalist. The David Hume Series.
+\newblock Center for the Study of Language and Information, 2008. URL:
+  \url{http://books.google.ru/books?id=g7wbAQAAMAAJ}.
+
+\bibitem{encyclopedie}
+\selectlanguageifdefined{russian}
+Mining Eighteenth Century Ontologies: Machine Learning and Knowledge
+  Classification in the Encyclopedie~/ Russell~Horton, Robert~Morrissey,
+  Mark~Olsen {[и~др.]}~// Digital Humanities Quarterly.
+\newblock 2009.
+\newblock Т.~3, {№}~2. URL:
+  \url{http://www.digitalhumanities.org/dhq/vol/3/2/000044/000044.html}.
+
+\bibitem{geographic_lexical_variation}
+\selectlanguageifdefined{russian}
+A latent variable model for geographic lexical variation~/ Jacob~Eisenstein,
+  Brendan~O’Connor, Noah~A.~Smith {[и~др.]}~// Proceedings of the 2010
+  Conference on Empirical Methods in Natural Language Processing.
+\newblock 2010.
+\newblock {С.}~1277--1287. URL:
+  \url{http://www.cs.cmu.edu/~nasmith/papers/eisenstein+oconnor+smith+xing.emnlp10.pdf}.
+
+\bibitem{tweets_to_polls}
+\selectlanguageifdefined{russian}
+From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series~/
+  Brendan~O’Connor, Ramnath~Balasubramanyan, Bryan~R.~Routledge
+  {[и~др.]}~// International AAAI Conference on Weblogs and Social Media.
+\newblock Washington: 2010. URL:
+  \url{http://www.cs.cmu.edu/~nasmith/papers/oconnor+balasubramanyan+routledge+smith.icwsm10.pdf}.
+
 \bibitem{MediaCoverage2012}
 \selectlanguageifdefined{russian}
 Media coverage in times of political crisis: a text mining approach~/
