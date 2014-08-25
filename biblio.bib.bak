@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10.
+% This file was created with JabRef 2.10b2.
 % Encoding: UTF-8
 
 
@@ -99,7 +99,7 @@
 
 @Article{seasonal_mood,
   Title                    = {Diurnal and seasonal mood vary with work, sleep, and daylength across diverse cultures},
-  Author                   = {Golder, Scott A. and Macy,  Michael W.},
+  Author                   = {Golder, Scott A. and Macy, Michael W.},
   Journal                  = {Science},
   Year                     = {2011},
 
@@ -173,6 +173,18 @@
 
   Owner                    = {Hun},
   Timestamp                = {2014.03.24}
+}
+
+@Book{federalist,
+  Title                    = {Inference and Disputed Authorship: The Federalist},
+  Author                   = {Mosteller, F. and Wallace, D.L. and Nerbonne, J.},
+  Publisher                = {Center for the Study of Language and Information},
+  Year                     = {2008},
+  Series                   = {The David Hume Series},
+
+  Owner                    = {Hun},
+  Timestamp                = {2014.03.24},
+  Url                      = {\url{http://books.google.ru/books?id=g7wbAQAAMAAJ}}
 }
 
 @Book{handbook_stat_dm,
@@ -357,5 +369,25 @@
   Owner                    = {hun},
   Timestamp                = {2014.02.07},
   Url                      = {\url{http://www.hse.ru/pubs/lib/data/access/ticket/1391774851d0fd2270984e4354b93fb2e1ac234f48/Кольцова_Рыков.pdf}}
+}
+
+@Misc{,
+  Title                    = {Рейтинг АРИ омских интернет-СМИ. Сводка},
+  Note                     = {Доступ: 2014-08-25},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.08.25},
+  Url                      = {\url{http://omsk-journal.ru/publ/9-1-0-116}}
+}
+
+@Misc{golos_omska,
+  Title                    = {Рейтинг омских СМИ. 2013 год},
+  Month                    = {November},
+  Note                     = {Доступ: 2014-08-25},
+  Year                     = {2013},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.08.25},
+  Url                      = {\url{http://www.golos-omska.ru/research/reyting-omskih-smi-2013-god}}
 }
 
