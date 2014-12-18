@@ -111,6 +111,19 @@ Han~Jiawei, Kamber~Micheline. Data Mining: Concepts and Techniques~/ {под
 \newblock 2 {изд.}
 \newblock Elsevier, 2006.
 
+\bibitem{bargesyan2009}
+\selectlanguageifdefined{russian}
+Анализ данных и процессов~/ А.~А.~Барсегян,
+  М.~С.~Куприянов, И.~И.~Холод {[и~др.]}.
+\newblock 3 {изд.}
+\newblock БХВ-Петербург, 2009.
+
+\bibitem{practical_tm}
+\selectlanguageifdefined{russian}
+Practical Text Mining and Statistical Analysis for Non-structured Text Data
+  Applications~/ G.~Miner, D.~Delen, J.~Elder {[и~др.]}.
+\newblock Elsevier, 2012.
+
 \bibitem{Tetlock2007}
 \selectlanguageifdefined{russian}
 C.~Tetlock~Paul. Giving content to investor sentiment: The role of media in the
@@ -213,5 +226,50 @@ Causey~Charles. The Battle for Bystanders: Information, Meaning Contests, and
 \newblock СПб, 2011. URL:
   \url{http://www.hse.ru/data/2013/06/10/1283698963/Julija Pavlova, Olesja
   Kolcova,K metodol.. dlja sociologicheskogo analiza.pdf}.
+
+\bibitem{Iudin2010}
+\selectlanguageifdefined{russian}
+Иудин~А.А., Рюмин~А.М. Контент-анализ
+  текстов: компьютерные технологии: Учебное
+  пособие.
+\newblock Н.Новгород: Нижегородский
+  государственный университет им.
+  Н.И.Лобачевского, 2010.
+
+\bibitem{Lande2006}
+\selectlanguageifdefined{russian}
+Ландэ~Д.В. Основы интеграции
+  информационных потоков.
+\newblock Киев: Инжиниринг, 2006.
+
+\bibitem{Smith2000}
+\selectlanguageifdefined{russian}
+Smith~C.~P. Content analysis and narrative analysis~// Handbook of research
+  methods in social and personality psychology~/ {под ред. }H.~T.~Reis,
+  C.~M.~Judd.
+\newblock Cambridge, UK: Cambridge University Press, 2000.
+\newblock {С.}~313--335.
+
+\bibitem{Pochepcov1998}
+\selectlanguageifdefined{russian}
+Почепцов~Г.Г. Теория и практика
+  коммуникации (от речей президентов до
+  переговоров с террористами).
+\newblock Москва: Центр, 1998.
+
+\bibitem{tm_and_ca}
+\selectlanguageifdefined{russian}
+Ho~Yu~Chong, Jannasch-Pennell~Angel, DiGangi~Samuel. Compatibility between Text
+  Mining and Qualitative Research in the Perspectives of Grounded Theory,
+  Content Analysis, and Reliability~// The Qualitative Report.
+\newblock Т.~16, {№}~3.
+\newblock {С.}~730--744. URL:
+  \url{http://www.nova.edu/ssss/QR/QR16-3/yu.pdf}.
+
+\bibitem{ari_rating}
+\selectlanguageifdefined{russian}
+Рейтинг АРИ омских интернет-СМИ. Сводка.
+\newblock Доступ: 2014-08-25. URL:
+  \url{http://omsk-journal.ru/publ/9-1-0-116}.
 
 \end{thebibliography}

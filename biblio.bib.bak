@@ -18,6 +18,26 @@
   Url                      = {\url{http://pages.stern.nyu.edu/~aghose/pricingpower_print.pdf}}
 }
 
+@InProceedings{Arun2010,
+  Title                    = {On Finding the Natural Number of Topics with Latent Dirichlet Allocation: Some Observations},
+  Author                   = {Arun, R. and Suresh, V. and Veni Madhavan, C. E. and Narasimha Murthy, M. N.},
+  Booktitle                = {Proceedings of the 14th Pacific-Asia Conference on Advances in Knowledge Discovery and Data Mining - Volume Part I},
+  Year                     = {2010},
+
+  Address                  = {Berlin, Heidelberg},
+  Pages                    = {391--402},
+  Publisher                = {Springer-Verlag},
+  Series                   = {PAKDD'10},
+
+  Acmid                    = {2177124},
+  Doi                      = {10.1007/978-3-642-13657-3_43},
+  ISBN                     = {3-642-13656-7, 978-3-642-13656-6},
+  Keywords                 = {KL-divergence, LDA, SVD, topic},
+  Location                 = {Hyderabad, India},
+  Numpages                 = {12},
+  Url                      = {http://dx.doi.org/10.1007/978-3-642-13657-3_43}
+}
+
 @Article{Google_econometrics,
   Title                    = {Google econometrics and unemployment forecasting},
   Author                   = {Askitas, Nikolaos and Zimmermann, Klaus F.},
@@ -32,6 +52,24 @@
   Owner                    = {Hun},
   Timestamp                = {2014.03.24},
   Url                      = {\url{http://ftp.iza.org/dp4201.pdf}}
+}
+
+@Article{Blei:2003:LDA:944919.944937,
+  Title                    = {Latent Dirichlet Allocation},
+  Author                   = {Blei, David M. and Ng, Andrew Y. and Jordan, Michael I.},
+  Journal                  = {J. Mach. Learn. Res.},
+  Year                     = {2003},
+
+  Month                    = mar,
+  Pages                    = {993--1022},
+  Volume                   = {3},
+
+  Acmid                    = {944937},
+  ISSN                     = {1532-4435},
+  Issue_date               = {3/1/2003},
+  Numpages                 = {30},
+  Publisher                = {JMLR.org},
+  Url                      = {http://dl.acm.org/citation.cfm?id=944919.944937}
 }
 
 @Article{Tetlock2007,
@@ -123,6 +161,20 @@
   File                     = {:/home/hun/Thesis/books/!  han_j_kamber_m_data_mining_concepts_and_techniques.pdf:PDF},
   Owner                    = {hun},
   Timestamp                = {2013.11.22}
+}
+
+@Article{tm_and_ca,
+  Title                    = {Compatibility between Text Mining and Qualitative Research in the Perspectives of Grounded Theory, Content Analysis, and Reliability},
+  Author                   = {Ho Yu, Chong and Jannasch-Pennell, Angel and DiGangi, Samuel},
+  Journal                  = {The Qualitative Report},
+  Number                   = {3},
+  Pages                    = {730-744},
+  Volume                   = {16},
+
+  Abstract                 = {The objective of this article is to illustrate that text mining and qualitative research are epistemologically compatible. First, like many qualitative research approaches, such as grounded theory, text mining encourages open-mindedness and discourages preconceptions. Contrary to the popular belief that text mining is a linear and fully automated procedure, the text miner might add, delete, and revise the initial categories in an iterative fashion. Second, text mining is similar to content analysis, which also aims to extract common themes and threads by counting words. Although both of them utilize computer algorithms, text mining is characterized by its capability of processing natural languages. Last, the criteria of sound text mining adhere to those in qualitative research in terms of consistency and replicability.},
+  Owner                    = {hun},
+  Timestamp                = {2014.11.17},
+  Url                      = {\url{http://www.nova.edu/ssss/QR/QR16-3/yu.pdf}}
 }
 
 @Article{encyclopedie,
@@ -224,6 +276,21 @@
   Url                      = {\url{http://eventdata.psu.edu/7DS/Schrodt.7Sins.APSA10.pdf}}
 }
 
+@InCollection{Smith2000,
+  Title                    = {Content analysis and narrative analysis},
+  Author                   = {Smith, C. P.},
+  Booktitle                = {Handbook of research methods in social and personality psychology},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2000},
+
+  Address                  = {Cambridge, UK},
+  Editor                   = {Reis, H. T. and Judd, C. M.},
+  Pages                    = {313-335},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.11.17}
+}
+
 @InCollection{Talbott2013,
   Title                    = {Bayesian Epistemology},
   Author                   = {Talbott, William},
@@ -264,6 +331,18 @@
   Timestamp                = {2013.11.21}
 }
 
+@Book{Averianov2007,
+  Title                    = {Контент-анализ},
+  Author                   = {Аверьянов, Л.Я.},
+  Publisher                = {РГИУ},
+  Year                     = {2007},
+
+  Address                  = {Москва},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.11.24}
+}
+
 @Article{Aivazyan2008,
   Title                    = {Байесовский подход в эконометрическом анализе},
   Author                   = {Айвазян, С. А.},
@@ -294,6 +373,17 @@
   Timestamp                = {2013.11.03},
   Type                     = {Учебник для вузов},
   Url                      = {\url{http://ecsocman.hse.ru/text/33442857}}
+}
+
+@Book{bargesyan2009,
+  Title                    = {Анализ данных и процессов},
+  Author                   = {Барсегян, А. А. and Куприянов, М. С. and Холод, И. И. and Тесс, М. Д. and Елизаров, С. И.},
+  Publisher                = {БХВ-Петербург},
+  Year                     = {2009},
+  Edition                  = {3},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.09.20}
 }
 
 @Book{Gnedenko2005,
@@ -345,6 +435,19 @@
   Timestamp                = {2013.10.20}
 }
 
+@Book{Iudin2010,
+  Title                    = {Контент-анализ текстов: компьютерные технологии: Учебное пособие.},
+  Author                   = {Иудин, А.А. and Рюмин, А.М.},
+  Publisher                = {Нижегородский государственный университет им. Н.И.Лобачевского},
+  Year                     = {2010},
+
+  Address                  = {Н.Новгород},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.11.17},
+  Url                      = {\url{http://window.edu.ru/resource/004/74004/files/Ctt_3.pdf}}
+}
+
 @Booklet{methodlogy_internet,
   Title                    = {К методологии сбора Интернет-данных для социологического анализа},
 
@@ -371,23 +474,47 @@
   Url                      = {\url{http://www.hse.ru/pubs/lib/data/access/ticket/1391774851d0fd2270984e4354b93fb2e1ac234f48/Кольцова_Рыков.pdf}}
 }
 
-@Misc{,
+@Book{Lande2006,
+  Title                    = {Основы интеграции информационных потоков},
+  Author                   = {Ландэ, Д.В.},
+  Publisher                = {Инжиниринг},
+  Year                     = {2006},
+
+  Address                  = {Киев},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.11.23}
+}
+
+@Booklet{Morozova2007,
+  Title                    = {Методы политического анализа: Учебно-методическое пособие},
+
+  Address                  = {Воронеж},
+  Author                   = {Морозова, В. Н.},
+  Year                     = {2007},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.12.07}
+}
+
+@Book{Pochepcov1998,
+  Title                    = {Теория и практика коммуникации (от речей президентов до переговоров с террористами).},
+  Author                   = {Почепцов, Г.Г.},
+  Publisher                = {Центр},
+  Year                     = {1998},
+
+  Address                  = {Москва},
+
+  Owner                    = {hun},
+  Timestamp                = {2014.11.17}
+}
+
+@Misc{ari_rating,
   Title                    = {Рейтинг АРИ омских интернет-СМИ. Сводка},
   Note                     = {Доступ: 2014-08-25},
 
   Owner                    = {hun},
   Timestamp                = {2014.08.25},
   Url                      = {\url{http://omsk-journal.ru/publ/9-1-0-116}}
-}
-
-@Misc{golos_omska,
-  Title                    = {Рейтинг омских СМИ. 2013 год},
-  Month                    = {November},
-  Note                     = {Доступ: 2014-08-25},
-  Year                     = {2013},
-
-  Owner                    = {hun},
-  Timestamp                = {2014.08.25},
-  Url                      = {\url{http://www.golos-omska.ru/research/reyting-omskih-smi-2013-god}}
 }
 
