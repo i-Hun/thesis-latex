@@ -1,3 +1,12 @@
+## Добавленные мной
+.svn
+repo
+
+.DS_Store
+
+*.swp
+*.bak
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
