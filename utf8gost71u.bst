@@ -1005,11 +1005,17 @@ FUNCTION {editor.organization.after}
 FUNCTION {format.url}
 { url empty$
     { "" }
-    { after.sentence 'output.state :=
-      "\BibUrl{ " url * "}" *
-    }
+	{  curlanguage "english" =
+	    { "Available: \url{" url * "}" * }
+        { curlanguage "russian" =
+           { "Режим доступа: \url{" url * "}" * }
+           {"language is not defined: " language  "Available" * * warning$ "Available"}
+         if$}
+	  if$
+	}
   if$
 }
+
 
 FUNCTION {format.annote}
 { annote empty$
@@ -1439,9 +1445,11 @@ FUNCTION {begin.bib}
   "\expandafter\ifx\csname date#1\endcsname\relax"   write$ newline$
   "\else\language\csname l@#1\endcsname\fi}"                  write$ newline$
   "\ifx\undefined\url\def\url#1{{\small #1}}\else\fi"                  write$ newline$
-  "\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi"   write$ newline$
+%%  "\ifx\undefined\BibUrl\def\BibUrl#1{ -- Режим доступа: \url{#1}}\else\fi"   write$ newline$
   "\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi"    write$ newline$
   "\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi"    write$ newline$
+ %% "\providecommand{\urlprefix}{URL: }"
+  write$ newline$
   preamble$ empty$
     'skip$
     { preamble$ write$ newline$ }
