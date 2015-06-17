@@ -59,3 +59,10 @@
 \usepackage[colorinlistoftodos]{todonotes}
 %\usepackage[disable]{todonotes}  % не отображать todos
 \usepackage{comment}
+
+\usepackage{array}  % Для ширины таблиц
+\newcolumntype{L}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\centering\arraybackslash}p{#1}}
+
+\usepackage{multicol}
